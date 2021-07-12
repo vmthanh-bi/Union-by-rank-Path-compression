@@ -1,5 +1,5 @@
 <!-- PROJECT START -->
-# Union-by-rank-Path-compression
+# Union by rank & Path compression
 Given a disjoint set data structure, I use two strategies - union by rank and path compression - to find the connected components of the structure's graph.
 
 <!-- TABLE OF CONTENTS -->
@@ -43,7 +43,7 @@ Here is a picture that illustrates how this algorithm works.
 
 ![][a]
 
-The objective of this program is to use the methods, union by rank and path compression, to create an algorythym that can effeciently 
+The objective of this program is to use the methods, union by rank and path compression, to create an algorithm that can efficiently 
 connect components of such a graph.
 
 <!-- GETTING STARTED -->
